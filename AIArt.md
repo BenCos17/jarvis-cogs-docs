@@ -24,10 +24,6 @@ Generate art using Waifu Diffusion.<br/><br/>**Arguments**<br/>    `prompt` The 
 
 Upscale an image.<br/><br/>If no URL is provided, the bot the first image in the message.
 
-# anything
- - Usage: `[p]anything <args> `
-
-Generate art using the Anything v4.5 model.<br/><br/>Warning: This model has a high likelihood of generating NSFW content (it will still be behind the NSFW filter.)<br/><br/>**Arguments:**<br/>    `prompt`: The prompt to use for the art.<br/>    `--negative`: The negative prompt to use for the model.<br/>    `--cfg-scale`: The cfg scale to use for the model. This is a number between 1 and 10, inclusive.<br/>    `--denoising-strength`: The denoising strength to use for the model. This is a number between 0 and 1, inclusive.
 
 # aom
  - Usage: `[p]aom <args> `
